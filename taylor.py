@@ -389,3 +389,4 @@ if(gameFlag==True):
 	wn.listen()
 
 turtle.mainloop()
+#This doesn't work
